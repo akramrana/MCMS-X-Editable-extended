@@ -18,7 +18,9 @@ or add
 
 to the require section of your composer.json file.
 
-# clone or download repository(https://github.com/akramrana/MCMS-X-Editable-extended.git) and do following....
+# clone or download repository
+ https://github.com/akramrana/MCMS-X-Editable-extended.git
+ and do following....
 
 1.Put the libraries folder on your project root directory
 2.Put Plugins folder into the web folder
@@ -39,7 +41,7 @@ public function actions() {
 }
 ```
 
-#Text
+# Text
 
 ```
 [
@@ -63,4 +65,4 @@ public function actions() {
 ],
 ```
 
-# For more info follow this https://github.com/marciocamello/yii2-x-editable
+## For more info follow this https://github.com/marciocamello/yii2-x-editable
