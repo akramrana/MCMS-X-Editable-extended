@@ -22,9 +22,9 @@ to the require section of your composer.json file.
  https://github.com/akramrana/MCMS-X-Editable-extended.git
  and do following....
 
-1.Put the libraries folder on your project root directory  
+1.Put the **libraries** folder on your project root directory  
 
-2.Put Plugins folder into the web folder
+2.Put **plugins** folder into the web folder
 
 # Usage
 Once the libraries is installed, simply use it in your code by :
